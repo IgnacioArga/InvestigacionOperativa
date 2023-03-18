@@ -102,7 +102,7 @@ grafico_base +
 
 # * 5. Grafico la recta con el Z máximo -----------------------------------
 
-Z_opt <- rectaZ <- tribble(
+rectaZ <- tribble(
   ~xa,  ~xb,
   3750, 0,
   0   , 5000
